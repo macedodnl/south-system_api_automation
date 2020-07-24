@@ -25,4 +25,5 @@ ex.: "cucumber -t @Login & rake enviar_report"
      "cucumber & rake enviar_report"
 
 Obs.: O relatório pode ser enviado sob demanda, através do comando "sh bundle exec rake enviar_report"
+
 Obs.: É necessária a configuração das contas de e-mail no arquivo Rakefile.rb
