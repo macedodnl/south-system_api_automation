@@ -4,7 +4,7 @@ South-System_Api_automation
 
 2 - Clone or download repository
 
-3 - Intalar bundle "gem intall bundle"
+3 - Intalar bundle "gem install bundle"
 
 4 - Instalar as demais gems "bundle install"
 
